@@ -66,13 +66,6 @@ def count_down(count):
             checked += "✓"
             check_marks.config(text=checked,bg=YELLOW)
 
-
-
-
-
-
-
-
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
 window.title("Pomodoro")
